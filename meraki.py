@@ -1,0 +1,6 @@
+# f=open("people1.txt","r")
+# file_data = f.read()
+# print (file_data)
+# f.close()
+file = open("file.txt", "r")
+print (file.read())
